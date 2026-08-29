@@ -6,7 +6,7 @@ The project was built using **SQL and DuckDB**, with a focus on writing analytic
 
 ---
 
-![Project Overview](images/readme_image.png)
+![image](1_EDA/images/readme_image.png)
 
 ## 🎯 Project Objectives
 
@@ -39,7 +39,7 @@ The `skills_job_dim` table handles the **many-to-many relationship** between job
 
 ### Data WareHouse
 
-![Project Overview](images/Data_Warehouse.png)
+![Data Warehouse](1_EDA/images/Data_Warehouse.png)
 
 ---
 
